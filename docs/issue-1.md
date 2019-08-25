@@ -4,8 +4,6 @@
 
 欢迎投稿推荐，请[提交issue](https://github.com/youcc/weekly-cn/issues)。
 
-微信不允许外部链接，请点击页末左下角的“**阅读原文**”访问文中链接。
-
 ![](https://hrdag.org/wp-content/uploads/2016/06/snhr-tree.png)
 
 题图：Patrick Ball的数据项目树状文档
