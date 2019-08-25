@@ -4,7 +4,4 @@
 欢迎投稿推荐，请[提交issue]()。
 
 ## 2019
-**八月**：
-[第一期](docs/issue-1.md) 
-
-[第二期](docs/issue-2.md) 
+**八月**：[第2期](docs/issue-2.md) | [第1期](docs/issue-1.md) 
