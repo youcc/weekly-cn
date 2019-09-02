@@ -11,7 +11,7 @@
 题图：listendata.com
 
 ## 网课
-1、[Biostatistics for Biomedical Research](https://www.fharrell.com/#teaching)
+1、[Biostatistics for Biomedical Research](http://hbiostat.org/bbr/)
 
 Frank Harrell 教授要开公开课讲授初级和中级生物统计，适合临床科研工作者。10月4日开课，YouTube实时视频教学。 Harrell 教授是范德堡大学医学院生物统计系创始人，他的 R 包 `rms` (Regression Modeling Strategies) 和 `Hmisc` 都是做生物统计的利器。
 
